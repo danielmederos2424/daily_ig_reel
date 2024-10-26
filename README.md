@@ -9,7 +9,7 @@ This repository contains a script that automates the daily upload of Instagram r
 - **Video Upload**: Uploads a video to the Instagram feed with a caption indicating the day count.
 - **Scheduling**: Schedules the upload task to run daily at 10:00 AM.
 
-## Install dependencies**:
+## Install dependencies:
     ```sh
     pip install instagrapi schedule
     ```
