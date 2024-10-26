@@ -10,9 +10,9 @@ This repository contains a script that automates the daily upload of Instagram r
 - **Scheduling**: Schedules the upload task to run daily at 10:00 AM.
 
 ## Install dependencies:
-    ```sh
-    pip install instagrapi schedule
-    ```
+    
+    pip3 install instagrapi schedule
+
 
 ## Usage
 
